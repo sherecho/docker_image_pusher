@@ -6,3 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis
 zhugeqing/redis:latest
+#nacos
+nacos/nacos-server:v2.1.0
