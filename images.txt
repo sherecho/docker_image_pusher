@@ -11,5 +11,6 @@ nacos/nacos-server:v2.1.0
 #ubuntu
 ubuntu:18.04
 #mysql
-
 mysql:8.0
+#UBUNTU CGRAME
+ubuntu:focal
