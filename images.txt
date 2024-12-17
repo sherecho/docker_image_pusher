@@ -14,3 +14,4 @@ ubuntu:18.04
 mysql:8.0
 #UBUNTU CGRAME
 ubuntu:focal
+nvidia/cuda:12.4.1-cudnn-runtime-ubuntu20.04
