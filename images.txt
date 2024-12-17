@@ -15,3 +15,4 @@ mysql:8.0
 #UBUNTU CGRAME
 ubuntu:focal
 nvidia/cuda:12.4.1-cudnn-runtime-ubuntu20.04
+cgra/cgra-flow:20241028
