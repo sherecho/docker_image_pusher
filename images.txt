@@ -1,13 +1,9 @@
 #nginx
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #redis
-zhugeqing/redis:latest
 #nacos
-nacos/nacos-server:v2.1.0 
 #ubuntu
 --platform=linux/amd64  ubuntu:focal
 #mysql
