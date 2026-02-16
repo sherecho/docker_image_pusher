@@ -7,7 +7,7 @@
 #redis
 zhugeqing/redis:latest
 #nacos
-nacos/nacos-server:v2.1.0
+nacos/nacos-server:v2.1.0 
 #ubuntu
 --platform=linux/amd64  ubuntu:focal
 #mysql
