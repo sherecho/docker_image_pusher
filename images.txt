@@ -9,11 +9,10 @@ zhugeqing/redis:latest
 #nacos
 nacos/nacos-server:v2.1.0
 #ubuntu
-ubuntu:focal
+--platform=linux/amd64  ubuntu:focal
 #mysql
 mysql:8.0
 #UBUNTU CGRAME
---platform=linux/arm64 ubuntu:focal
 nvidia/cuda:12.4.1-cudnn-runtime-ubuntu20.04
 cgra/cgra-flow:20241028
 cgra/mlir-cgra:demo
